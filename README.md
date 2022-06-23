@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 
 I am a Java Web Developer.
 
-- 🔭 I’m studying at the Software University(https://bg.linkedin.com/school/software-university-softuni).
+- 🔭 I’m studying at the [Software University](https://bg.linkedin.com/school/software-university-softuni).
 - 🌱 Exploring Software Engineering.
 - ⚡ In my free time I read articles dedicated to algorithms, web controllers and Spring annotations.
 <!--
