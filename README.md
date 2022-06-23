@@ -11,7 +11,7 @@ I am a Java Web Developer.
 
 - 🔭 I’m studying at the [Software University](https://bg.linkedin.com/school/software-university-softuni).
 - 🌱 Exploring Software Engineering.
-- ⚡ In my free time I read articles dedicated to algorithms, web controllers and Spring annotations.
+- ⚡ In my free time I read articles dedicated to Spring annotations, web controllers and algorithms and go trekking in the mountains.
 <!--
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
