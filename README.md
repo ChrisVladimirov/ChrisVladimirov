@@ -5,9 +5,11 @@
 
 Here are some ideas to get you started:
 
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -16,15 +18,15 @@ Here are some ideas to get you started:
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<h1>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
   <img src=""/>
-</div>
+</h1>
 
 ---
 
@@ -32,8 +34,6 @@ Here are some ideas to get you started:
 https://github-readme-streak-stats.herokuapp.com/?user=ChrisVladimirov
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisVladimirov)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
 - 🔭 I’m currently working on ...
