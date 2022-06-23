@@ -5,6 +5,17 @@ Here are some ideas to get you started:-->
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
+### About Me :
+
+I am a Java Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+- 🔭 I’m studying at the Software University.
+- 🌱 Exploring Software Engineering.
+- ⚡ In my free time I read articles dedicated to algorithms, web controllers and Spring annotations.
+<!--
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+-->
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
