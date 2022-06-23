@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 https://github-readme-streak-stats.herokuapp.com/?user=ChrisVladimirov
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisVladimirov)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 - 🔭 I’m currently working on ...
