@@ -18,15 +18,14 @@ Here are some ideas to get you started:
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<p dir="auto">
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" style="max-width: 100%;"></a>
-<img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" style="max-width: 100%;"/>
+<div>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
-</p>
+</div>
 
 ---
 
